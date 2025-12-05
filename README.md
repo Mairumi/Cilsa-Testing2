@@ -1,6 +1,6 @@
 # Trabajo Integrador – Testing Automatizado
 
-Este repositorio contiene las automatizaciones realizadas para el **Punto 1 (Selenium + Python)** y **Punto 2 (Robot Framework)** del trabajo integrador.
+Este repositorio contiene las automatizaciones realizadas para el **Punto 1 (Selenium + Python)** y **Punto 2 (Robot Framework)** del trabajo integrador de CILSA.
 
 ---
 
